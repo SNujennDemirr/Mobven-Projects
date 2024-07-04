@@ -1,0 +1,43 @@
+.container_pricecard  {
+  &-btn{
+    width: 250px;
+    height: 50px;
+    margin-block: 10px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 6px;
+    border: none;
+    color: black;
+    background: linear-gradient(to right, #5be7a9, #9cf5fa);
+  }
+
+  &-pricing-btn--1 {
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin-right: 30px;
+    border-radius: 5px;
+    border-color: gray;
+    opacity: 0.5;
+  }
+
+  &-pricing-btn--2 {
+    width: 100px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-color: white;
+  }
+
+  &-btn2 {
+    width: 250px;
+    height: 50px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 6px;
+    border: none;
+    color: black;
+    background: $bluegradient
+  }
+}

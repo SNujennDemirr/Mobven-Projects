@@ -1,0 +1,49 @@
+.container_pricecard{
+&-title{
+  &--xll {
+    font-size: $large-size;
+    font-family: 'Mulish';
+    font-weight: $title-font-weight;
+    margin-top: -10px;
+  }
+
+  &--xl {
+    font-size: $small-size;
+    margin-top: -20px;
+    font-weight: bold;
+  }
+
+  &--m {
+    font-size: $small-size;
+    font-weight: bold;
+    font-family: $fontfm;
+
+    & span {
+      font-weight: normal;
+    }
+  }
+
+  &--s {
+    font-size: $small-size;
+    font-weight: bold;
+    font-family: $fontfm;
+  }
+
+  &--ss {
+    font-size:$small-size;
+    text-decoration: underline;
+    font-family: $fontfm;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 25px;
+  }
+}
+
+  &-pricing-title-m {
+
+      font-size: $medium-size;
+      font-family: $fontfm;
+      font-weight: bold;
+    }
+  }
+

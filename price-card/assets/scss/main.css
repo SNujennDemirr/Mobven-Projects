@@ -1,0 +1,102 @@
+.container_pricecard-btn {
+  width: 250px;
+  height: 50px;
+  margin-block: 10px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 6px;
+  border: none;
+  color: black;
+  background: linear-gradient(to right, #5be7a9, #9cf5fa);
+}
+.container_pricecard-pricing-btn--1 {
+  width: 100px;
+  height: 50px;
+  margin-top: 10px;
+  margin-right: 30px;
+  border-radius: 5px;
+  border-color: gray;
+  opacity: 0.5;
+}
+.container_pricecard-pricing-btn--2 {
+  width: 100px;
+  height: 50px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border-color: white;
+}
+.container_pricecard-btn2 {
+  width: 250px;
+  height: 50px;
+  margin-top: 20px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 6px;
+  border: none;
+  color: black;
+  background: linear-gradient(to right, #acc7f9, #d9b1eb);
+}
+
+.container_pricecard-title--xll {
+  font-size: 30px;
+  font-family: "Mulish";
+  font-weight: bold;
+  margin-top: -10px;
+}
+.container_pricecard-title--xl {
+  font-size: 12px;
+  margin-top: -20px;
+  font-weight: bold;
+}
+.container_pricecard-title--m {
+  font-size: 12px;
+  font-weight: bold;
+  font-family: "Mulish";
+}
+.container_pricecard-title--m span {
+  font-weight: normal;
+}
+.container_pricecard-title--s {
+  font-size: 12px;
+  font-weight: bold;
+  font-family: "Mulish";
+}
+.container_pricecard-title--ss {
+  font-size: 12px;
+  text-decoration: underline;
+  font-family: "Mulish";
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 25px;
+}
+.container_pricecard-pricing-title-m {
+  font-size: 15px;
+  font-family: "Mulish";
+  font-weight: bold;
+}
+
+.container {
+  background-color: #e6e6ff;
+  width: 300px;
+  height: 450px;
+  padding: 20px 80px;
+  border-radius: 30px;
+  margin: 0 auto;
+}
+
+.container_pricecard {
+  width: 250px;
+  height: 400px;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  margin: 40px auto;
+  padding: 50px;
+  border-radius: 20px;
+}
+.container_pricecard-pricing {
+  width: 260px;
+  height: 120px;
+  border-radius: 10px;
+  background-color: #e6e6ff;
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,27 @@
+.container {
+  background-color: $lavander;
+  width: 300px;
+  height: 450px; 
+  padding: 20px 80px;
+  border-radius: 30px;
+  margin: 0 auto; 
+}
+
+.container_pricecard {
+  width: 250px;
+  height: 400px; 
+  background-color: $white;
+
+  justify-content: center;
+  align-items: center; 
+  margin: 40px auto;
+  padding: 50px;
+  border-radius: 20px; 
+
+  &-pricing {
+      width: 260px;
+      height: 120px;
+      border-radius: 10px;
+      background-color: $lavander;
+  }
+}
